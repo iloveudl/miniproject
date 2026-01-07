@@ -1,0 +1,19 @@
+lr: 0.002
+weight_decay: 5e-4
+epochs: 50
+train_batch_size: 256
+test_batch_size: 1024
+label_noise: 0.0
+num_classes: 10
+initial_class_size: 2
+val_size: 100
+sigma: 0.3
+s: 1.0
+inference_steps: 400
+inference_lr: 0.05
+acquire_steps: 100
+acquisition_size: 10
+regression_af: trace
+dataset: fashion_mnist
+regression_dataset: fashion_mnist
+

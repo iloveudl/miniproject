@@ -1,0 +1,11 @@
+acquisition,threshold,acquired_mean,acquired_std,step_mean,step_std
+bald,0.05,NA,NA,NA,NA
+bald,0.1,NA,NA,NA,NA
+variation,0.05,NA,NA,NA,NA
+variation,0.1,NA,NA,NA,NA
+entropy,0.05,NA,NA,NA,NA
+entropy,0.1,NA,NA,NA,NA
+mean_std,0.05,NA,NA,NA,NA
+mean_std,0.1,NA,NA,NA,NA
+random,0.05,NA,NA,NA,NA
+random,0.1,NA,NA,NA,NA
